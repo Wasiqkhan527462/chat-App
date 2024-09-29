@@ -40,7 +40,7 @@ To run this project locally, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Wasiqkhan/chat-App.git
+   git clone https://github.com/Wasiqkhan527462/chat-App.git
    cd chat-App
    ```
 
